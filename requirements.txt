@@ -1,0 +1,4 @@
+pyrogram
+tgcrypto
+nest_asyncio
+python-telegram-bot
